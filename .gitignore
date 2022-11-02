@@ -3,6 +3,7 @@
 node_modules
 npm-debug.log
 .DS_Store
+.eslintcache
 # dotenv environment variables file
 
 /*.env
